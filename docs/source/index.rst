@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+欢迎阅读小康的cook notebook！大家都要好好吃饭哦
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
